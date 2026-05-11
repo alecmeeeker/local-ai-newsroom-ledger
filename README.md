@@ -1,16 +1,16 @@
-# An Open-Source AI Toolkit for Independent Local Newsrooms
+# Toward a Local Investigative Renaissance
+
+**An Open-Source AI Toolkit and Position Paper for Independent Newsrooms**
 
 **Live:** https://alecmeeeker.github.io/local-ai-newsroom-ledger/
 
-A working note and implementation snapshot of an ongoing project building an end-to-end AI toolkit for independent local newsrooms. The goal is to enable small publishers to leverage their editorial experience and local knowledge to produce reporting that is competitive with large nationally funded outlets on speed, accuracy, and depth.
+A position paper and implementation snapshot for an open-source AI toolkit built to give independent local newsrooms what they need to survive. The toolkit is in active use at [Bushwick Daily](https://bushwickdaily.com) and is being open-sourced in pieces as components stabilize.
 
-In active use at [Bushwick Daily](https://bushwickdaily.com). Open-sourced in pieces as components stabilize.
+The argument, in brief: the prose-based local-newsroom model is finished, two AI-driven forces (slop noise and instant content laundering) are accelerating the decline, and the only durable response is fast, systems-based, data-driven investigative reporting on subjects neither viral video nor sponsored influencers will pursue.
 
-## What this page contains
+## Sections
 
-A single static HTML file (`index.html`). The page is structured as a working note in seven sections:
-
-- §1 — Position
+- §1 — Thesis
 - §2 — The two existential threats to local digital news (signal and ripoff)
 - §3 — The two-part response (depth and speed/comprehensiveness)
 - §4 — Operating premises (prose is no longer economically valuable; the "trusted voice" argument is over)
