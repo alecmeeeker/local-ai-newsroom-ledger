@@ -1,10 +1,10 @@
-# Toward a Local Investigative Renaissance
+# Prose Is Dead. Local News Isn't.
 
-**An Open-Source AI Toolkit and Position Paper for Independent Newsrooms**
+**The future infrastructure of local news.**
 
 **Live:** https://alecmeeeker.github.io/local-ai-newsroom-ledger/
 
-A position paper and implementation snapshot for an open-source AI toolkit built to give independent local newsrooms what they need to survive. The toolkit is in active use at [Bushwick Daily](https://bushwickdaily.com) and is being open-sourced in pieces as components stabilize.
+A position paper and implementation snapshot for an open-source AI infrastructure built to give independent local newsrooms what they need to survive. In active use at [Bushwick Daily](https://bushwickdaily.com) and being open-sourced in pieces as components stabilize.
 
 The argument, in brief: the prose-based local-newsroom model is finished, two AI-driven forces (slop noise and instant content laundering) are accelerating the decline, and the only durable response is fast, systems-based, data-driven investigative reporting on subjects neither viral video nor sponsored influencers will pursue.
 
